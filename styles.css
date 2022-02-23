@@ -1,0 +1,33 @@
+body{background-color: #FFB2EB;}
+h1{font-family: Helvetica; 
+	font-size: 40px; 
+	color: floralwhite;
+	text-align: center;}
+p{font-family: Helvetica; 
+	font-size: 24; 
+	color: #AB2588;
+	text-align: center;}
+.flickr {
+	color: #207BA3; font-style: italic; font-size: 10px; margin-left: 280px;
+}
+a{font-family: Helvetica; font-size: 14; font-weight: bold; color: #AB2588; text-decoration: none;}
+a:hover{color: floralwhite;}
+img{border-style: dotted; 
+	border-width: 10px; 
+	border-color: floralwhite;
+	display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+	}
+ul{list-style-type: none; 
+	text-align: center;
+	padding: 15px;
+	margin: 15px;}
+li{float: left; 
+	padding: 5px;
+	margin: 5px;
+	background-color: #A3E3FF;
+	border-radius: 25px;}
+a{display: block;
+	padding: 8px;}
